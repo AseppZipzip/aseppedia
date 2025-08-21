@@ -1,7 +1,7 @@
 # 📦 Hosting Simple
 
 **Hosting Simple** Adalah sebuah html yang dibuat untuk menaruh informasi atau membagikan sesuatu via website, html ini di buat dengan penuh kerja keras dan tidak di bagikan secara gratis/free.
-**Dibuat oleh: [Kaijesh](https://github.com/AseppZipzip)**  
+**Dibuat oleh: [AsepZipzip](https://github.com/AseppZipzip)**  
 **Channel WhatsApp Resmi:** 👉 [https://whatsapp.com/channel/0029VbBHdko6LwHlFql3yR0Y](https://chat.whatsapp.com/K6zxm5QJjFXHSDpbAMtx4j?mode=ac_t)
 
 ---
